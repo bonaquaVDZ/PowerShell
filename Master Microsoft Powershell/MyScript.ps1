@@ -1,4 +1,5 @@
-﻿#udemy doesn't allow .ps1 extensions so I saved this as a .txt file. Make sure you save it as a ps1
+﻿# Organize Files
+ #udemy doesn't allow .ps1 extensions so I saved this as a .txt file. Make sure you save it as a ps1
 
 #Parameters
 #The script should take 2 arguments $source and $destination (for the source and destination folders).
